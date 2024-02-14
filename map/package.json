@@ -1,0 +1,16 @@
+{
+  "name": "playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "g": "^2.0.1",
+    "lite-server": "^2.6.1"
+  }
+}

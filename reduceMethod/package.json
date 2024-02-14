@@ -1,0 +1,16 @@
+{
+  "name": "help",
+  "version": "1.0.0",
+  "main": "reduce method.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "g": "^2.0.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
